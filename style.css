@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    border: black solid 1px;
+}
+
+span {
+    width: 250px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.diferente {
+    font-size: 26px;
+    padding: 5px;
+    margin: 5px;
+}
